@@ -45,7 +45,8 @@ Smart chatbot web app that integrates Gemini API and OpenAI for contextual conve
 
 ### 🤝 Let’s Connect  
 📫 **Email:** jagritbhaker45@gmail.com
-💼 **LinkedIn:** [linkedin.com/in/jagrit-bhaker](www.linkedin.com/in/jagrit-bhaker)  
+💼 **LinkedIn:** [Jagrit Bhaker](https://www.linkedin.com/in/jagrit-bhaker/)
+
   
 
 ---
