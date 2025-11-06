@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Jagrit 
 
-<!--
-**jagritbhaker45/jagritbhaker45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MTech Student | 💻 Full-Stack Developer | 🤖 AI & Web Enthusiast  
 
-Here are some ideas to get you started:
+I love building full-stack web apps and exploring AI integrations using modern JavaScript frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects  
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🛒 [GoCart](https://github.com/jagritbhaker45/gocart_full_stack) | Multi-vendor eCommerce platform with Clerk auth, Stripe payments & PostgreSQL | Next.js, Node.js, Neon DB |
+| 🤖 [QuickAI](https://github.com/jagritbhaker45/QuickAI-Full-Stack) | AI-powered SaaS web app for text & image generation | Next.js, OpenAI API |
+| 💬 [NeuraChat](https://github.com/jagritbhaker45/NeuraChat) | Real-time AI chat app with conversational logic | Next.js, Socket.io |
+
+---
+
+## 🧰 Tech Stack  
+Next.js | Node.js | PostgreSQL | Tailwind CSS | Stripe | Clerk | Inngest | ImageKit  
+
+---
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jagrit%20Bhaker-blue)](https://linkedin.com/in/jagritbhaker)  
+[![GitHub](https://img.shields.io/badge/GitHub-jagritbhaker45-black)](https://github.com/jagritbhaker45)
+
+⭐ **Check out my pinned projects below!**
