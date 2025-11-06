@@ -22,7 +22,6 @@ Next.js | Node.js | PostgreSQL | Tailwind CSS | Stripe | Clerk | Inngest | Image
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jagrit%20Bhaker-blue)](https://linkedin.com/in/jagritbhaker)  
 [![GitHub](https://img.shields.io/badge/GitHub-jagritbhaker45-black)](https://github.com/jagritbhaker45)
 
 ⭐ **Check out my pinned projects below!**
