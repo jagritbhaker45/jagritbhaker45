@@ -1,28 +1,55 @@
-# 👋 Hi, I'm Jagrit 
+# 👋 Hi, I’m Jagrit 
 
-🎓 MTech Student | 💻 Full-Stack Developer | 🤖 AI & Web Enthusiast  
+🎓 **M.Tech in Computer Science** | 💻 **Full-Stack Developer** | 🤖 **AI Integration Enthusiast**
 
-I love building full-stack web apps and exploring AI integrations using modern JavaScript frameworks.
-
----
-
-## 🚀 Featured Projects  
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🛒 [GoCart](https://github.com/jagritbhaker45/gocart_full_stack) | Multi-vendor eCommerce platform with Clerk auth, Stripe payments & PostgreSQL | Next.js, Node.js, Neon DB |
-| 🤖 [QuickAI](https://github.com/jagritbhaker45/QuickAI-Full-Stack) | AI-powered SaaS web app for text & image generation | Next.js, OpenAI API |
-| 💬 [NeuraChat](https://github.com/jagritbhaker45/NeuraChat) | Full-stack AI chatbot app for text & image generation using Gemini API and Stripe payments | MERN Stack |
-
+I enjoy building practical, scalable web applications and exploring how AI can make everyday tools smarter and more efficient. My recent work focuses on combining **modern web development** with **AI-driven APIs** to create seamless user experiences.
 
 ---
 
-## 🧰 Tech Stack  
-Next.js | Node.js | PostgreSQL | Tailwind CSS | Stripe | Clerk | Inngest | ImageKit  
+### 🧰 Tech Stack  
+**Languages:** JavaScript (ES6+), C++, Python  
+**Frontend:** React.js, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Databases:** PostgreSQL, MongoDB  
+**Cloud & Tools:** Vercel, Render, Git, Stripe, Clerk, OpenAI API, Google Gemini API  
 
 ---
 
-## 📫 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-jagritbhaker45-black)](https://github.com/jagritbhaker45)
+### 💡 Featured Projects  
 
-⭐ **Check out my pinned projects below!**
+#### 🧠 [QuickAI](https://github.com/jagritbhaker45/quickai)  
+AI-powered SaaS platform integrating OpenAI and Google Gemini APIs for content and image generation.  
+- Built backend APIs for AI services and credit-based billing.  
+- Managed authentication using Clerk and PostgreSQL on NeonDB.  
+- Designed a clean frontend with React and Tailwind CSS.  
+
+#### 🛒 [GoCart](https://github.com/jagritbhaker45/gocart)  
+A scalable multi-vendor e-commerce application.  
+- Developed product management and order APIs using Express.js.  
+- Implemented secure payment flow with Stripe.  
+- Deployed and optimized for real-time user access.  
+
+#### 💬 [NeuraChat](https://github.com/jagritbhaker45/neurachat)  
+Smart chatbot web app that integrates Gemini API and OpenAI for contextual conversation and image replies.  
+- Created API endpoints for message handling and AI processing.  
+- Focused on performance and minimal latency.  
+
+---
+
+### 📈 What I’m Working On
+- Improving backend architecture for cloud-deployed applications.  
+- Exploring scalable data models for AI-integrated SaaS products.  
+- Building small utilities that help developers integrate AI APIs faster.  
+
+---
+
+### 🤝 Let’s Connect  
+📫 **Email:** jagritbhaker45@gmail.com
+💼 **LinkedIn:** [linkedin.com/in/jagritbhaker45](https://linkedin.com/in/jagritbhaker45)  
+  
+
+---
+
+> _“The best code is simple, reliable, and built to solve real problems.”_  
+
+Thanks for visiting my profile!
