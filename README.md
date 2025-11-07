@@ -23,7 +23,7 @@ AI-powered SaaS platform integrating OpenAI and Google Gemini APIs for content a
 - Managed authentication using Clerk and PostgreSQL on NeonDB.  
 - Designed a clean frontend with React and Tailwind CSS.  
 
-#### 🛒 [GoCart](https://github.com/jagritbhaker45/GoCart)  
+#### 🛒 [GoCart](https://github.com/jagritbhaker45/gocart_full_stack )  
 A scalable multi-vendor e-commerce application.  
 - Developed product management and order APIs using Express.js.  
 - Implemented secure payment flow with Stripe.  
