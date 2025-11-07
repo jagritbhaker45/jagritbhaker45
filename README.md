@@ -17,7 +17,7 @@ I enjoy building practical, scalable web applications and exploring how AI can m
 
 ### 💡 Featured Projects  
 
-#### 🧠 [QuickAI](https://github.com/jagritbhaker45/QuickAI)
+#### 🧠 [QuickAI](https://github.com/jagritbhaker45/QuickAI-Full-Stack )
 AI-powered SaaS platform integrating OpenAI and Google Gemini APIs for content and image generation.  
 - Built backend APIs for AI services and credit-based billing.  
 - Managed authentication using Clerk and PostgreSQL on NeonDB.  
