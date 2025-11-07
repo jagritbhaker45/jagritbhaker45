@@ -17,13 +17,13 @@ I enjoy building practical, scalable web applications and exploring how AI can m
 
 ### 💡 Featured Projects  
 
-#### 🧠 [QuickAI](https://github.com/jagritbhaker45/quickai)  
+#### 🧠 [QuickAI](https://github.com/jagritbhaker45/QuickAI)
 AI-powered SaaS platform integrating OpenAI and Google Gemini APIs for content and image generation.  
 - Built backend APIs for AI services and credit-based billing.  
 - Managed authentication using Clerk and PostgreSQL on NeonDB.  
 - Designed a clean frontend with React and Tailwind CSS.  
 
-#### 🛒 [GoCart](https://github.com/jagritbhaker45/gocart)  
+#### 🛒 [GoCart](https://github.com/jagritbhaker45/GoCart)  
 A scalable multi-vendor e-commerce application.  
 - Developed product management and order APIs using Express.js.  
 - Implemented secure payment flow with Stripe.  
