@@ -1,8 +1,9 @@
-# 👋 Hi, I’m Jagrit 
+# 👋 Hi, I’m Jagrit
 
-🎓 **M.Tech in Computer Science** | 💻 **Full-Stack Developer** | 🤖 **AI Integration Enthusiast**
+💻 **Full-Stack Developer** | 🤖 **AI Integration Enthusiast**
 
-I enjoy building practical, scalable web applications and exploring how AI can make everyday tools smarter and more efficient. My recent work focuses on combining **modern web development** with **AI-driven APIs** to create seamless user experiences.
+I enjoy building scalable, user-friendly web applications and exploring how AI can enhance real-world tools. My recent work focuses on combining modern web development with AI-powered APIs to create smooth and meaningful user experiences.
+
 
 ---
 
